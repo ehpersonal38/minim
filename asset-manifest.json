@@ -1,27 +1,27 @@
 {
   "files": {
-    "main.css": "/static/css/main.02635d22.chunk.css",
-    "main.js": "/static/js/main.cfeeb414.chunk.js",
-    "main.js.map": "/static/js/main.cfeeb414.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.d3f1fbec.js",
-    "runtime-main.js.map": "/static/js/runtime-main.d3f1fbec.js.map",
-    "static/css/2.40d82f05.chunk.css": "/static/css/2.40d82f05.chunk.css",
-    "static/js/2.6a374614.chunk.js": "/static/js/2.6a374614.chunk.js",
-    "static/js/2.6a374614.chunk.js.map": "/static/js/2.6a374614.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.805fa04cbeb496d726eef3616f9241c6.js": "/precache-manifest.805fa04cbeb496d726eef3616f9241c6.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/2.40d82f05.chunk.css.map": "/static/css/2.40d82f05.chunk.css.map",
-    "static/css/main.02635d22.chunk.css.map": "/static/css/main.02635d22.chunk.css.map",
-    "static/js/2.6a374614.chunk.js.LICENSE": "/static/js/2.6a374614.chunk.js.LICENSE",
-    "static/media/App.css": "/static/media/SharpGrotesk.0b6986b3.ttf",
-    "static/media/index.css": "/static/media/MaterialIcons-Regular.a37b0c01.ttf"
+    "main.css": "/minim/static/css/main.4b8d3f91.chunk.css",
+    "main.js": "/minim/static/js/main.5ce53ef1.chunk.js",
+    "main.js.map": "/minim/static/js/main.5ce53ef1.chunk.js.map",
+    "runtime-main.js": "/minim/static/js/runtime-main.0e30770a.js",
+    "runtime-main.js.map": "/minim/static/js/runtime-main.0e30770a.js.map",
+    "static/css/2.40d82f05.chunk.css": "/minim/static/css/2.40d82f05.chunk.css",
+    "static/js/2.6a374614.chunk.js": "/minim/static/js/2.6a374614.chunk.js",
+    "static/js/2.6a374614.chunk.js.map": "/minim/static/js/2.6a374614.chunk.js.map",
+    "index.html": "/minim/index.html",
+    "precache-manifest.e82f1ae6cce8f6363d1064f7c6c67eaa.js": "/minim/precache-manifest.e82f1ae6cce8f6363d1064f7c6c67eaa.js",
+    "service-worker.js": "/minim/service-worker.js",
+    "static/css/2.40d82f05.chunk.css.map": "/minim/static/css/2.40d82f05.chunk.css.map",
+    "static/css/main.4b8d3f91.chunk.css.map": "/minim/static/css/main.4b8d3f91.chunk.css.map",
+    "static/js/2.6a374614.chunk.js.LICENSE": "/minim/static/js/2.6a374614.chunk.js.LICENSE",
+    "static/media/App.css": "/minim/static/media/SharpGrotesk.0b6986b3.ttf",
+    "static/media/index.css": "/minim/static/media/MaterialIcons-Regular.a37b0c01.ttf"
   },
   "entrypoints": [
-    "static/js/runtime-main.d3f1fbec.js",
+    "static/js/runtime-main.0e30770a.js",
     "static/css/2.40d82f05.chunk.css",
     "static/js/2.6a374614.chunk.js",
-    "static/css/main.02635d22.chunk.css",
-    "static/js/main.cfeeb414.chunk.js"
+    "static/css/main.4b8d3f91.chunk.css",
+    "static/js/main.5ce53ef1.chunk.js"
   ]
 }
