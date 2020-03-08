@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "fb646442442f57b8beb0232d6838f364",
+    "revision": "43838535f134e261b411b3eba1393a43",
     "url": "/minim/index.html"
   },
   {
@@ -8,8 +8,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/minim/static/css/2.1bd11376.chunk.css"
   },
   {
-    "revision": "3eec34969c79c5dff64a",
-    "url": "/minim/static/css/main.3d9ec9fa.chunk.css"
+    "revision": "39705d1f1d1f4d7fa516",
+    "url": "/minim/static/css/main.c66b6c9e.chunk.css"
   },
   {
     "revision": "2e6edc76d8a54399210d",
@@ -20,12 +20,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/minim/static/js/2.af68c281.chunk.js.LICENSE"
   },
   {
-    "revision": "3eec34969c79c5dff64a",
-    "url": "/minim/static/js/main.5fe7264c.chunk.js"
+    "revision": "39705d1f1d1f4d7fa516",
+    "url": "/minim/static/js/main.74b0bce3.chunk.js"
   },
   {
     "revision": "1fbd6f56df0883dc0ea0",
     "url": "/minim/static/js/runtime-main.0e30770a.js"
+  },
+  {
+    "revision": "47f711bd1524b9283aa92d3d74db16a8",
+    "url": "/minim/static/media/BebasNeue.47f711bd.ttf"
   },
   {
     "revision": "c43e9feb9ca817ae86afb47fd0ee4f94",
@@ -42,6 +46,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "1475dfd019aeb476e9ae6126ebc68f3e",
     "url": "/minim/static/media/Milea.1475dfd0.ttf"
+  },
+  {
+    "revision": "eae9c18cee82a8a1a52e654911f8fe83",
+    "url": "/minim/static/media/Product.eae9c18c.ttf"
   },
   {
     "revision": "0b6986b36b7d81188f996e58f2ec0643",
