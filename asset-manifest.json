@@ -1,27 +1,26 @@
 {
   "files": {
-    "main.css": "/minim/static/css/main.e1c1c611.chunk.css",
-    "main.js": "/minim/static/js/main.edc38a29.chunk.js",
-    "main.js.map": "/minim/static/js/main.edc38a29.chunk.js.map",
+    "main.css": "/minim/static/css/main.e711c2c1.chunk.css",
+    "main.js": "/minim/static/js/main.6c21662e.chunk.js",
+    "main.js.map": "/minim/static/js/main.6c21662e.chunk.js.map",
     "runtime-main.js": "/minim/static/js/runtime-main.0e30770a.js",
     "runtime-main.js.map": "/minim/static/js/runtime-main.0e30770a.js.map",
-    "static/css/2.1bd11376.chunk.css": "/minim/static/css/2.1bd11376.chunk.css",
-    "static/js/2.af68c281.chunk.js": "/minim/static/js/2.af68c281.chunk.js",
-    "static/js/2.af68c281.chunk.js.map": "/minim/static/js/2.af68c281.chunk.js.map",
+    "static/css/2.96479aa2.chunk.css": "/minim/static/css/2.96479aa2.chunk.css",
+    "static/js/2.dd66b212.chunk.js": "/minim/static/js/2.dd66b212.chunk.js",
+    "static/js/2.dd66b212.chunk.js.map": "/minim/static/js/2.dd66b212.chunk.js.map",
     "index.html": "/minim/index.html",
-    "precache-manifest.89123e851b2ef2711c76d870657b6910.js": "/minim/precache-manifest.89123e851b2ef2711c76d870657b6910.js",
+    "precache-manifest.9ab3d0ca46266d168f18ed2a3b41be8e.js": "/minim/precache-manifest.9ab3d0ca46266d168f18ed2a3b41be8e.js",
     "service-worker.js": "/minim/service-worker.js",
-    "static/css/2.1bd11376.chunk.css.map": "/minim/static/css/2.1bd11376.chunk.css.map",
-    "static/css/main.e1c1c611.chunk.css.map": "/minim/static/css/main.e1c1c611.chunk.css.map",
-    "static/js/2.af68c281.chunk.js.LICENSE": "/minim/static/js/2.af68c281.chunk.js.LICENSE",
-    "static/media/App.css": "/minim/static/media/SharpGrotesk.0b6986b3.ttf",
-    "static/media/index.css": "/minim/static/media/MaterialIcons-Regular.a37b0c01.ttf"
+    "static/css/2.96479aa2.chunk.css.map": "/minim/static/css/2.96479aa2.chunk.css.map",
+    "static/css/main.e711c2c1.chunk.css.map": "/minim/static/css/main.e711c2c1.chunk.css.map",
+    "static/js/2.dd66b212.chunk.js.LICENSE": "/minim/static/js/2.dd66b212.chunk.js.LICENSE",
+    "static/media/App.css": "/minim/static/media/SharpGrotesk.0b6986b3.ttf"
   },
   "entrypoints": [
     "static/js/runtime-main.0e30770a.js",
-    "static/css/2.1bd11376.chunk.css",
-    "static/js/2.af68c281.chunk.js",
-    "static/css/main.e1c1c611.chunk.css",
-    "static/js/main.edc38a29.chunk.js"
+    "static/css/2.96479aa2.chunk.css",
+    "static/js/2.dd66b212.chunk.js",
+    "static/css/main.e711c2c1.chunk.css",
+    "static/js/main.6c21662e.chunk.js"
   ]
 }
